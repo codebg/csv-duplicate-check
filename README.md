@@ -1,6 +1,6 @@
 
 
-This script gets column-data from file-1 a check if exist on file-2.<br/>
+This script gets column-data from file-1 a check if exist on file-2. It is a type-search from small file to big file but in automatic mode.<br/> 
 <br/>
 <br/>
 
