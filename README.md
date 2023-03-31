@@ -1,5 +1,10 @@
 
 
+This script gets column-data from file-1 a check if exist on file-2.<br/>
+<br/>
+<br/>
+
+
 # USAGE
 /usr/bin/php check.php file-1 column-number file-2 column-number <br/>
 Array, COLUMNS starting from 0 <br/>
